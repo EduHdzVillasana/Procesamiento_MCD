@@ -1,0 +1,6 @@
+gradio
+pandas
+joblib
+numpy
+scikit-learn
+nltk
